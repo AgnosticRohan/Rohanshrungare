@@ -11,9 +11,9 @@
 
 ## 📬 Let’s Connect!
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohanshrungare7@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-shrungare-9310a8236)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white)](https://www.novypro.com/profile_projects/buntyshrungare)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohanshrungare7@gmail.com)  : rohanshrungare7@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-shrungare-9310a8236) :Rohan Shrungare 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white)](https://www.novypro.com/profile_projects/buntyshrungare) : NovyPro Profile
 
 
 🚀 Always excited to discuss data trends, analytics, and dashboards! Let’s connect! 😃
