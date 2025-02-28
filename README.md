@@ -1,7 +1,7 @@
 # Rohanshrungare
                                                   Showcasing my data analytics journey and projects.
 <p align="center">
-  <img src="https://github.com/RohanShrungare/RohanShrungare/blob/main/banner.png" alt="Rohan Shrungare Banner">
+  <img src="banner.png" alt="Rohan Shrungare Banner">
 </p>
 
 
