@@ -1,33 +1,25 @@
 # Rohanshrungare
+   
                                                   Showcasing my data analytics journey and projects.
 <p align="center">
   <img src="https://raw.githubusercontent.com/AgnosticRohan/Rohanshrungare/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png" alt="Rohan Shrungare Banner">
 </p>
+                                    
 
+# **👋 Hi, I'm Rohan Shrungare!**  
 
+## 🚀 About Me  
+I am a Data Analyst with a strong passion for transforming raw data into meaningful insights.  
+I enjoy working with **Power BI, SQL, Python, and Excel** to analyze trends and build impactful dashboards.  
+My goal is to leverage data to drive informed decision-making and solve business challenges.  
+Always eager to learn and explore new technologies in the field of data analytics!  
 
+## 🛠 Skills  
+- **Analytical Tools:** Power BI (Power Query, Data Modeling, Data Cleaning & Transformation)  
+- **Programming Languages:** Python (Pandas, NumPy, Matplotlib), SQL  
+- **Databases:** MySQL  
+- **Advanced Excel:** Pivot Tables, Power Query, Lookups  
 
-👋 Hi, I'm Rohan Shrungare!
-
-
-Technical Skills
-
-
-📈 Analytical Tools
-
-🔹 Power BI (Power Query, Data Modeling, Data Cleaning & Transformation)
-
-🔹 Advanced Excel (Pivot Tables, Power Pivot, Power Query, LOOKUP Functions)
-
-🖥️ Programming Languages
-
-⚡ SQL (Structured Query Language)
-
-⚡ Python (Pandas, NumPy, Matplotlib)
-
-🗄️ Databases
-
-🛢️ MySQL
 
 
 ## 📬 Let’s Connect!
@@ -40,4 +32,11 @@ Technical Skills
 
 
 🚀 Always excited to discuss data trends, analytics, and dashboards! Let’s connect! 😃
+
+
+
+
+
+
+
 
